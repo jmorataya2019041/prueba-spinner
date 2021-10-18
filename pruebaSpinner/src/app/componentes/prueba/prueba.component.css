@@ -1,0 +1,10 @@
+.texto{
+  width: 50%;
+  margin: auto;
+  margin-top: 25%;
+}
+
+.texto h1{
+  text-align: center;
+  font-size: 60px;
+}
